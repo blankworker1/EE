@@ -1,6 +1,7 @@
 # Bosa — Leggere la realtà fisica della nostra città
 
 *Prima bozza — documento interno per il gruppo di lavoro*
+
 *Non destinato alla circolazione generale*
 
 ---
